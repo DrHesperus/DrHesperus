@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Я <a href="https://daniilshat.ru/" target="_blank">Алексей</a>
+<h1 align="center">Привет, Я <a href="https://vk.com/drhesperus" target="_blank">Алексей</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 <h3 align="center">Переводчик модов по Minecraft. Эта страница была создана для перенаправления пользователей на эту ссылку:</h3>
 <h3 align="center">https://github.com/DrHesperus/My-translations</h3>
