@@ -6,3 +6,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Приближается+лето!)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=drhesperus)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=drhesperus&style=for-the-badge)
